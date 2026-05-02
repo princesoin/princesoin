@@ -6,5 +6,5 @@
 🔒 Interested in network security and how it applies to large scale data centre environments. </br>
 ☁️ Working with Azure and Linux in enterprise environments, with a focus on automation and infrastructure as code. </br>
 🖥️ Strong hands on background in hardware and data centre operations, from physical infrastructure to software defined networking. </br>
-🚀 Passionate about Network Software Automation Engineering, bridging the gap between traditional networking and modern software development </br>
+🚀 Passionate about Network Software Automation Engineering, bridging the gap between traditional networking and modern software development. </br>
 🎓 Master of Computer Science @ Monash University | Bachelor of Information Technology @ University Of Canberra </br>
